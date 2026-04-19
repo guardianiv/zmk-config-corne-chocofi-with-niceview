@@ -74,7 +74,7 @@
 &trans  &trans  &kp K_BACK    &kp C_PP      &kp K_NEXT    &kp KP_NUMLOCK    &kp KP_MINUS  &kp N7  &kp N8      &kp N9  &kp KP_PLUS            &trans
 &trans  &trans  &kp C_VOL_DN  &kp K_MUTE    &kp C_VOL_UP  &kp SQT           &kp KP_SLASH  &kp N4  &kp N5      &kp N6  &mt RSHFT KP_ASTERISK  &trans
 &trans  &trans  &trans        &kp C_BRI_DN  &kp C_BRI_UP  &kp TILDE         &kp N0        &kp N1  &kp N2      &kp N3  &kp KP_EQUAL           &trans
-                              &to 0         &trans        &trans            &kp RET       &kp N0  &kp KP_DOT
+                              &to 0         &trans        &sl 5             &kp RET       &kp N0  &kp KP_DOT
             >;
         };
 
